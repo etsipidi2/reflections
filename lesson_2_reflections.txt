@@ -11,3 +11,8 @@ separage logical steps.
 Branches: meaningful ways to separate things you want to try out.
 
 They help you see parents and which branches are reachable.
+
+Merging puts together all the commits in two branches so that all changes
+are included.
+
+Automatic is quicker, but you need manual for tricky cases.
