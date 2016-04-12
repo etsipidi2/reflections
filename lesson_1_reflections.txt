@@ -1,0 +1,21 @@
+Some interesting things, not sure if necessary for tomorrow's webinar.
+
+Diff helps with seeing exactly where the problem is without wasting time.
+
+A previous version might be better and I will want to be able to use it.
+Or I might want to find my train of thought.
+
+You might lose important information, but it is good to separate
+version by logical checkpoints.
+
+In Google Docs, you usually work on one file at a time.
+In Git, a change might involve multiple files eg
+an HTML file and a CSS file.
+
+Git log gives you the descriptions and other information on git commits.
+Git diff shows you the actual changes in the files.
+
+You can make changes and take risks knowing that you can later correct
+your mistakes.
+
+For work and possibly personal projects.
