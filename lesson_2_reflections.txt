@@ -4,3 +4,10 @@ Because this way you will be able to do version control on your files.
 The repository contains the whole history.
 The directory is the files - it exists independently of Git.
 The staging area is where changes take place and are worked on.
+
+With the staging area, you can see what changes you are making and can thus 
+separage logical steps.
+
+Branches: meaningful ways to separate things you want to try out.
+
+They help you see parents and which branches are reachable.
