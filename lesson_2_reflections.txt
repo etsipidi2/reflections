@@ -1,0 +1,6 @@
+
+Because this way you will be able to do version control on your files.
+
+The repository contains the whole history.
+The directory is the files - it exists independently of Git.
+The staging area is where changes take place and are worked on.
