@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 
 For consistency of logical units and for working on code without interruptions from
 new code arriving.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones that happen on GitHub servers - usually for working on a repository you don't have
+permission to change. Clones are copies of repositories including their complete histories. Branches
+are different versions of repositories.
