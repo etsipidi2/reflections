@@ -19,3 +19,7 @@ are different versions of repositories.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Being able to compare it with your local changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Would probably use something like Google Docs - its learning curve is easier, but it does not have
+the level of support of Git & GitHub.
